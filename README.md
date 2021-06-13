@@ -51,7 +51,7 @@ Model 2
 
 Model 3
 
-
+![model3-3](https://user-images.githubusercontent.com/85548480/121803579-4f661300-cc7d-11eb-87a0-7cfc474a94b1.png)
 
 5. Images and corresponding probability that predicted Wrong
 
