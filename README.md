@@ -12,7 +12,7 @@ Model 3
 ![model3](https://user-images.githubusercontent.com/85548480/121803409-6821f900-cc7c-11eb-9471-0b91e90c8fd0.png)
 
 2. Training with Training loss
-3. 
+ 
 Model 1
 
 ![model1-1](https://user-images.githubusercontent.com/85548480/121803084-c77f0980-cc7a-11eb-9172-a4605a7c612b.png)
@@ -51,7 +51,7 @@ Model 2
 
 Model 3
 
-![model3-3](https://user-images.githubusercontent.com/85548480/121803416-6ce6ad00-cc7c-11eb-90e9-0d4ffb7123de.png)
+
 
 5. Images and corresponding probability that predicted Wrong
 
