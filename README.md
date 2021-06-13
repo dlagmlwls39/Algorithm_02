@@ -1,3 +1,11 @@
 # Algorithm_02
-![다운로드](https://user-images.githubusercontent.com/85548480/121802518-bbde1380-cc77-11eb-9eee-b62de00ae4a5.png)
-![1](https://user-images.githubusercontent.com/85548480/121145695-2e1ab680-c87a-11eb-8013-3b293f4497e0.png)
+1. Model
+![model1](https://user-images.githubusercontent.com/85548480/121803082-c51caf80-cc7a-11eb-83e9-9bb506c331ad.png)
+2. Training with Training loss
+![model1-1](https://user-images.githubusercontent.com/85548480/121803084-c77f0980-cc7a-11eb-9172-a4605a7c612b.png)
+3. Test Accuracy
+![model1-2](https://user-images.githubusercontent.com/85548480/121803086-c8b03680-cc7a-11eb-895f-d64ae34f0106.png)
+4. Images and corresponding probability that predicted Right
+![model1-3](https://user-images.githubusercontent.com/85548480/121803089-ca79fa00-cc7a-11eb-9057-e2b9f9a07a27.png)
+5. Images and corresponding probability that predicted Wrong
+![model1-4](https://user-images.githubusercontent.com/85548480/121803090-cbab2700-cc7a-11eb-924e-28586c3e2430.png)
