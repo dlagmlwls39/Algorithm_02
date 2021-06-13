@@ -43,15 +43,15 @@ Model 3
 
 Model 1
 
-![model1-3](https://user-images.githubusercontent.com/85548480/121803089-ca79fa00-cc7a-11eb-9057-e2b9f9a07a27.png)
+![model1-3](https://user-images.githubusercontent.com/85548480/121803897-88eb4e00-cc7e-11eb-9757-6e9bacf22ab0.png)
 
 Model 2
 
-![model2-3](https://user-images.githubusercontent.com/85548480/121803243-9521dc00-cc7b-11eb-9787-ef0a6a11f7d7.png)
+![model2-3](https://user-images.githubusercontent.com/85548480/121803898-8ab51180-cc7e-11eb-85ac-5d31767ef24f.png)
 
 Model 3
 
-![model3-3](https://user-images.githubusercontent.com/85548480/121803579-4f661300-cc7d-11eb-87a0-7cfc474a94b1.png)
+![model3-3](https://user-images.githubusercontent.com/85548480/121803901-8d176b80-cc7e-11eb-9189-1c7239041781.png)
 
 5. Images and corresponding probability that predicted Wrong
 
